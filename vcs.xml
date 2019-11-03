@@ -78,7 +78,4 @@
     </option>
     <option name="cloneParentDir" value="C:\Projects\AndroidStudio" />
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_DIFF_PREVIEW" value="true" />
-  </component>
 </application>
