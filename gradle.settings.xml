@@ -1,6 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
     <option name="serviceDirectoryPath" value="C:/Dependencies/.gradle" />
-    <option name="gradleVmOptions" value="" />
   </component>
 </application>
