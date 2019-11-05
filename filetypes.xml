@@ -5,30 +5,30 @@
       <mapping pattern="unused_mitm_log" type="PLAIN_TEXT" />
       <mapping pattern="unused_placespublishfirst" type="PLAIN_TEXT" />
       <mapping pattern="first_step" type="PLAIN_TEXT" />
-      <mapping pattern="unused_searchforlocationlayout" type="PLAIN_TEXT" />
       <mapping pattern="unused_gridlayout" type="PLAIN_TEXT" />
       <mapping pattern="second_step" type="PLAIN_TEXT" />
       <mapping pattern="unused_checker" type="PLAIN_TEXT" />
+      <mapping pattern="win" type="PLAIN_TEXT" />
       <mapping pattern="unused_popup" type="PLAIN_TEXT" />
       <mapping pattern="unused_code_from_first_step" type="PLAIN_TEXT" />
       <mapping pattern="unused_company_shops" type="PLAIN_TEXT" />
-      <mapping pattern="unused_setup_score" type="PLAIN_TEXT" />
       <mapping pattern="unused_company_text" type="PLAIN_TEXT" />
+      <mapping pattern="unused_check_for_minimal" type="PLAIN_TEXT" />
       <mapping pattern="unused_drawer_items" type="PLAIN_TEXT" />
       <mapping pattern="unused_mash_log" type="PLAIN_TEXT" />
       <mapping pattern="FEU" type="PLAIN_TEXT" />
       <mapping pattern="search_results_and_choose_for_calculations" type="PLAIN_TEXT" />
-      <mapping pattern="unused_placesPublishSecondViewWithHideViews methods" type="PLAIN_TEXT" />
       <mapping pattern="unused_shares_adapter" type="PLAIN_TEXT" />
       <mapping pattern="old_activity" type="PLAIN_TEXT" />
       <mapping pattern="setup_score" type="PLAIN_TEXT" />
       <mapping pattern="FEE" type="PLAIN_TEXT" />
+      <mapping pattern="unused_collect_items_layout" type="PLAIN_TEXT" />
       <mapping pattern="unused_selectspecialtiesforcalculation_adapter" type="PLAIN_TEXT" />
       <mapping pattern="unused_square" type="PLAIN_TEXT" />
-      <mapping pattern="win" type="PLAIN_TEXT" />
+      <mapping pattern="unused_searchforlocationlayout" type="PLAIN_TEXT" />
       <mapping pattern="strings" type="PLAIN_TEXT" />
       <mapping pattern="example" type="PLAIN_TEXT" />
-      <mapping pattern="unused_placespublishfirstpresenter" type="PLAIN_TEXT" />
+      <mapping pattern="unused_selectspecialtiesforcalculating" type="PLAIN_TEXT" />
       <mapping pattern="unused_rx_java_builder" type="PLAIN_TEXT" />
       <mapping pattern="start_screen" type="PLAIN_TEXT" />
       <mapping pattern="unused_searchforlocationview" type="PLAIN_TEXT" />
@@ -37,22 +37,23 @@
       <mapping pattern="result_unused_code" type="PLAIN_TEXT" />
       <mapping pattern="unused_coroutine_for_first_step" type="PLAIN_TEXT" />
       <mapping pattern="to_do_list" type="PLAIN_TEXT" />
-      <mapping pattern="unused_atp_log" type="PLAIN_TEXT" />
       <mapping pattern="unused_tmo_log" type="PLAIN_TEXT" />
+      <mapping pattern="unused_atp_log" type="PLAIN_TEXT" />
+      <mapping pattern="unused_placespublishfirstpresenter" type="PLAIN_TEXT" />
       <mapping pattern="unused_company" type="PLAIN_TEXT" />
       <mapping pattern="FIT" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="old_notice_presenter" type="PLAIN_TEXT" />
       <mapping pattern="unused_kto_log" type="PLAIN_TEXT" />
       <mapping pattern="unused_mht_log" type="PLAIN_TEXT" />
-      <mapping pattern="unused_selectspecialtiesforcalculating" type="PLAIN_TEXT" />
+      <mapping pattern="unused_placesPublishSecondViewWithHideViews methods" type="PLAIN_TEXT" />
       <mapping pattern="unused_uts_log" type="PLAIN_TEXT" />
       <mapping pattern="unused_selectspecialtiesforcalculation_layout" type="PLAIN_TEXT" />
       <mapping pattern="third_step" type="PLAIN_TEXT" />
       <mapping pattern="first_step_coroutine" type="PLAIN_TEXT" />
       <mapping pattern="MTF" type="PLAIN_TEXT" />
-      <mapping pattern="unused_check_for_minimal" type="PLAIN_TEXT" />
       <mapping pattern="Extensions" type="PLAIN_TEXT" />
+      <mapping pattern="unused_setup_score" type="PLAIN_TEXT" />
       <mapping pattern="setup_additional" type="PLAIN_TEXT" />
       <mapping pattern="UNTI" type="PLAIN_TEXT" />
       <mapping pattern="unused_setup_score_presenter" type="PLAIN_TEXT" />
