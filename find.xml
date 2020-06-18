@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'forge'" />
-    <option name="defaultScopeName" value="Project 'forge'" />
-    <option name="SEARCH_SCOPE" value="Project 'forge'" />
+    <option name="customScope" value="Directory '...\src\main\java\ckhbox\villagebox [Java.VillageBox.main]'" />
+    <option name="defaultScopeName" value="Directory '...\src\main\java\ckhbox\villagebox [Java.VillageBox.main]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src\main\java\ckhbox\villagebox [Java.VillageBox.main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
