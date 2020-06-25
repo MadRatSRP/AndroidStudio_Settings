@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'forge'" />
-    <option name="defaultScopeName" value="Project 'forge'" />
-    <option name="SEARCH_SCOPE" value="Project 'forge'" />
+    <option name="customScope" value="File '...\src\main\java\ckhbox\villagebox\client\renderer\painting\RenderPainting.java [VillageBox.main]'" />
+    <option name="defaultScopeName" value="File '...\src\main\java\ckhbox\villagebox\client\renderer\painting\RenderPainting.java [VillageBox.main]'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\main\java\ckhbox\villagebox\client\renderer\painting\RenderPainting.java [VillageBox.main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
