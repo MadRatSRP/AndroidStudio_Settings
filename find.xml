@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'cff'" />
-    <option name="defaultScopeName" value="Project 'cff'" />
-    <option name="SEARCH_SCOPE" value="Project 'cff'" />
+    <option name="customScope" value="Project 'FindOutLocationExample'" />
+    <option name="defaultScopeName" value="Project 'FindOutLocationExample'" />
+    <option name="SEARCH_SCOPE" value="Project 'FindOutLocationExample'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
