@@ -1,0 +1,92 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/ComplexView/ComplexViewExample/src/main/res/drawable/dummy_background.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/ComplexView/ComplexViewExample/src/main/res/drawable/frame.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/ComplexView/ComplexViewExample/src/main/res/drawable/oval.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/ComplexView/ComplexViewExample/src/main/res/layout/activity_main.xml" value="0.12487335359675786" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/drawable/diabetes_note_background.xml" value="0.2677083333333333" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/font/roboto.xml" value="0.2833333333333333" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/font/roboto_regular.xml" value="0.2833333333333333" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/dialog_add_diabetes_note.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/dialog_add_food_note.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/dialog_edit_diabetes_note.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/dialog_edit_food_note.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/dialog_export_file_to_source.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/dialog_import_file_from_source.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/dialog_import_from_dropbox.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/dialog_select_export_type.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/dialog_select_import_type.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/dialog_send_email.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/fragment_diabetes_diary.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/fragment_diabetes_statistics.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/fragment_food_diary.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/fragment_product.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/fragment_user.xml" value="0.12132725430597771" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/list_diabetes_notes.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/list_food_notes.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/layout/list_products.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/menu/button_import_and_export.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/menu/buttons_menu_home.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/DiabetesHelper/app/src/main/res/menu/menu_diabetes_notes.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/ShadowExample/app/src/main/res/drawable/frame.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/ShadowExample/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2682291666666667" />
+        <entry key="..\:/Projects/Android/ShadowExample/app/src/main/res/drawable/myrect.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/ShadowExample/app/src/main/res/drawable/silver_icon_background.xml" value="0.2682291666666667" />
+        <entry key="..\:/Projects/Android/ShadowExample/app/src/main/res/layout/activity_main.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/ShadowExample/app/src/main/res/layout/custom_view_shadowed_oval.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/dennis-gmaps-loc-dialogue/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/button_round_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/button_show_user_location.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/dialog_icon_background_bottom.xml" value="0.14479166666666668" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/frame.xml" value="0.2682291666666667" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_background_info_window_sale_point.xml" value="0.2677083333333333" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_button_get_user_location_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_location_mode_incorrect.xml" value="0.2635897435897436" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/image_frame_error.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/info_window_background.xml" value="0.2682291666666667" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/collect_items_dialog_description.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_dialog_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_company_contacts.xml" value="0.12284701114488349" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_map_styles.xml" value="0.12284701114488349" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_plug.xml" value="0.12284701114488349" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_shadowed_oval.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_collect_items_main.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_collect_items_product.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_collect_items_users.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_favorites.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_friends.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_notice.xml" value="0.12284701114488349" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_placement_first.xml" value="0.536" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_places_first.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_promos.xml" value="0.12916666666666668" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_winnings.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/info_window_sale_point.xml" value="0.17028985507246377" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/items_settings_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/list_collect_items_shares.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/list_contacts.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/list_shops.xml" value="0.253125" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/list_winnings.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/list_winnings_view_confirmed.xml" value="0.42819148936170215" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/list_winnings_view_finished.xml" value="0.14583333333333334" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/list_winnings_view_unconfirmed.xml" value="0.8" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/main_activity_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/marker_icons_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/menu_cell_non_read.xml" value="0.12284701114488349" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/message_content.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/message_date.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/messages_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/promo_cell.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/menu/buttons_menu_friends.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/menu/drawer_items.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/while-in-use-location/base/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/while-in-use-location/complete/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
