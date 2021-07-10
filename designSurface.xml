@@ -46,13 +46,18 @@
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/frame.xml" value="0.2682291666666667" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_background_info_window_sale_point.xml" value="0.2677083333333333" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_button_get_user_location_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_button_key.xml" value="0.2682291666666667" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_company_key_button.xml" value="0.2682291666666667" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_key.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_location_mode_incorrect.xml" value="0.2635897435897436" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/image_frame_error.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/info_window_background.xml" value="0.2682291666666667" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/tab_background.xml" value="0.2682291666666667" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/font/roboto_regular.xml" value="0.2833333333333333" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/bottom_cell_menu.xml" value="0.15081521739130435" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/collect_items_dialog_description.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/collect_items_dialog_screen_info.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_dialog_layout.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_company_contacts.xml" value="0.12284701114488349" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_map_styles.xml" value="0.12284701114488349" />
@@ -88,6 +93,7 @@
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/tab_key.xml" value="0.15081521739130435" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/tab_prize.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/tab_review.xml" value="0.15081521739130435" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/winnings_dialog_screen_info.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/menu/buttons_menu_friends.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/menu/drawer_items.xml" value="0.1" />
         <entry key="..\:/Projects/Android/while-in-use-location/base/src/main/res/layout/activity_main.xml" value="0.1" />
