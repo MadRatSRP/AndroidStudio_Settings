@@ -55,8 +55,11 @@
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/image_frame_error.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/info_window_background.xml" value="0.2682291666666667" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/tab_background.xml" value="0.2682291666666667" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/timer_button_background_animated.xml" value="0.2677083333333333" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/timer_button_background_default.xml" value="0.2682291666666667" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/timer_button_drawable_collect_items.xml" value="0.2677083333333333" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/winnings_card_toolbar_background.xml" value="0.2682291666666667" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/drawable/winnings_key_button_animation_drawable.xml" value="0.2641025641025641" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/font/roboto_regular.xml" value="0.2833333333333333" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/bottom_cell_menu.xml" value="0.15081521739130435" />
@@ -68,6 +71,7 @@
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_map_styles.xml" value="0.12284701114488349" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_plug.xml" value="0.12284701114488349" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_shadowed_oval.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_timer_button.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_collect_items_main.xml" value="0.1" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_collect_items_product.xml" value="0.253125" />
         <entry key="..\:/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_collect_items_users.xml" value="0.1" />
