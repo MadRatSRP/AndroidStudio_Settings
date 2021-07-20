@@ -4,12 +4,15 @@
       <map>
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_i_button_active.xml" value="0.2682291666666667" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_winnings_complain_left.xml" value="0.2677083333333333" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_winnings_leave_complain_background.xml" value="0.2677083333333333" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/collect_items_dialog_leave_complaint.xml" value="0.1" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/custom_view_shadowed_oval.xml" value="0.1" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/dialog_leave_complaint.xml" value="0.253125" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/favorites_dialog_transfer_prize.xml" value="0.1" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_other_company.xml" value="0.1" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/fragment_places_third.xml" value="0.1" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/items_cell_layout.xml" value="0.2" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/list_winnings_view_confirmed.xml" value="0.1" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/list_winnings_view_unconfirmed.xml" value="0.1" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/select_items_count_dialog.xml" value="0.1" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/send_items_dialog_layout.xml" value="0.1" />
