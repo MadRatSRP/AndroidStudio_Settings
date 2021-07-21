@@ -3,6 +3,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_i_button_active.xml" value="0.2682291666666667" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_leave_complaint.xml" value="0.1" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_message_complaint_sent.xml" value="0.2677083333333333" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_message_review_sent.xml" value="0.2677083333333333" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_winnings_complain_leave.xml" value="0.2677083333333333" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_winnings_complain_left.xml" value="0.2677083333333333" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_winnings_leave_complain_background.xml" value="0.2677083333333333" />
