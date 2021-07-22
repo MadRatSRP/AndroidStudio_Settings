@@ -7,9 +7,13 @@
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_leave_complaint.xml" value="0.1" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_message_complaint_sent.xml" value="0.2677083333333333" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_message_review_sent.xml" value="0.2677083333333333" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_tab_reviewed.xml" value="0.2682291666666667" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_tab_reviewed_complained.xml" value="0.2682291666666667" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_winnings_complain_leave.xml" value="0.2677083333333333" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_winnings_complain_left.xml" value="0.2677083333333333" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_winnings_leave_complain_background.xml" value="0.2677083333333333" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_winnings_review_complaint_left.xml" value="0.2682291666666667" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_winnings_review_left.xml" value="0.2682291666666667" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/collect_items_dialog_confirm_prize.xml" value="0.1" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/collect_items_dialog_description.xml" value="0.12310030395136778" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/layout/collect_items_dialog_leave_complaint.xml" value="0.1" />
