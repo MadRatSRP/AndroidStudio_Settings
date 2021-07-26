@@ -4,8 +4,13 @@
       <map>
         <entry key="..\:/Programs/Programming/Projects/Android/Coursework_API/app/src/main/res/layout/fragment_search_food_videos.xml" value="0.1" />
         <entry key="..\:/Programs/Programming/Projects/Android/Coursework_API/app/src/main/res/layout/list_search_food_videos.xml" value="0.1" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_button_prize_obtaining_confirmed.xml" value="0.2682291666666667" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_dialog_confirm_prize_obtaining.xml" value="0.2682291666666667" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_dialog_info_winnings.xml" value="0.1" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_dialog_leave_review.xml" value="0.21481481481481482" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_i_button_active.xml" value="0.2682291666666667" />
-        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_leave_complaint.xml" value="0.1" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_leave_complaint.xml" value="0.2682291666666667" />
+        <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_leave_review.xml" value="0.2682291666666667" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_message_complaint_sent.xml" value="0.2677083333333333" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_message_review_sent.xml" value="0.2677083333333333" />
         <entry key="..\:/Programs/Programming/Projects/Android/fgh-android-application/app/src/main/res/drawable/ic_tab_reviewed.xml" value="0.2682291666666667" />
