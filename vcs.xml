@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/MadRatSRP/android-samples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MadRatSRP/mad-location-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Programs\Programming\Projects\Android" />
