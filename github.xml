@@ -1,5 +1,8 @@
 <application>
   <component name="GithubAccounts">
+    <account name="MadRatSRP" id="0f2c1663-94d7-4612-a221-d69eeb24e735">
+      <server host="github.com" />
+    </account>
     <account name="OldSoftwareCollection" id="01b874ac-0589-42ef-a3ec-cd4d8c70f189">
       <server host="github.com" />
     </account>
