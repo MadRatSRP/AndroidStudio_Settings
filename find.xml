@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…\app\src\main\java\com\madrat\fgh [fgh-android-application.app.main]'" />
-    <option name="defaultScopeName" value="Directory '…\app\src\main\java\com\madrat\fgh [fgh-android-application.app.main]'" />
+    <option name="customScope" value="Project 'fgh-android-application'" />
+    <option name="defaultScopeName" value="Project 'fgh-android-application'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '…\app\src\main\java\com\madrat\fgh [fgh-android-application.app.main]'" />
+    <option name="SEARCH_SCOPE" value="Project 'fgh-android-application'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
