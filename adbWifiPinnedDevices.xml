@@ -1,5 +1,5 @@
 <application>
   <component name="PinDeviceService">
-    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.137.89:5555&quot;,&quot;serialNumber&quot;:&quot;4ef0d9df&quot;,&quot;name&quot;:&quot;Xiaomi Redmi Note 5&quot;,&quot;address&quot;:&quot;192.168.137.89&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;9&quot;,&quot;apiLevel&quot;:&quot;28&quot;}]" />
+    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.137.2:5555&quot;,&quot;serialNumber&quot;:&quot;4ef0d9df&quot;,&quot;name&quot;:&quot;Xiaomi Redmi Note 5&quot;,&quot;address&quot;:&quot;192.168.137.2&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;9&quot;,&quot;apiLevel&quot;:&quot;28&quot;}]" />
   </component>
 </application>
