@@ -10,7 +10,18 @@
         </key>
         <name value="Xiaomi Redmi Note 5" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="FAIJ6LWO6D8T8LH6" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2006C3MNG" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
