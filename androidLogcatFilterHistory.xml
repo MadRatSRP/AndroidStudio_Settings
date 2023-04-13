@@ -1,11 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PromosFragment" />
+    <option name="mostRecentlyUsed" value="level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="level:warn " />
+        <option value="level:WARNING" />
+        <option value="level:warning" />
+        <option value="level:FATAL" />
+        <option value="level:ERROR" />
+        <option value="tag:error" />
+        <option value="tag:" />
+        <option value="crash" />
+        <option value="getChargerType" />
         <option value="PromosFragment" />
         <option value="Displayed" />
-        <option value="crash" />
         <option value="package:mine" />
       </list>
     </option>
