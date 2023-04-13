@@ -1,9 +1,6 @@
 <application>
   <component name="GithubAccounts">
-    <account name="MadRatSRP" id="0f2c1663-94d7-4612-a221-d69eeb24e735">
-      <server host="github.com" />
-    </account>
-    <account name="OldSoftwareCollection" id="01b874ac-0589-42ef-a3ec-cd4d8c70f189">
+    <account name="MadRatSRP" id="376461cf-b5c4-48ce-b335-e7c722d84439">
       <server host="github.com" />
     </account>
     <account name="mischa.alpeew@yandex.ru" id="de9c7ea2-5e30-4eed-9d8a-d6337a31c4d7">
