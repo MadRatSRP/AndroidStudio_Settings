@@ -1,13 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:warn " />
+    <option name="mostRecentlyUsed" value="level:ERROR" />
     <option name="nonFavorites">
       <list>
+        <option value="level:ERROR" />
+        <option value="level:ERROR " />
+        <option value="level:ERROR | level:WARN " />
+        <option value="level:ERROR | level:WARN | level:FATAL" />
+        <option value="level:ERROR | level:WARN | level:" />
+        <option value="level:ERROR | level:" />
+        <option value="level:" />
+        <option value="chucker" />
+        <option value="level:warn chucker" />
         <option value="level:warn " />
         <option value="level:WARNING" />
         <option value="level:warning" />
         <option value="level:FATAL" />
-        <option value="level:ERROR" />
         <option value="tag:error" />
         <option value="tag:" />
         <option value="crash" />
