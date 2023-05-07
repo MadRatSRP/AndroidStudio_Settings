@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="OldSoftwareCollection" id="f7391d3a-aaeb-4b96-acc5-d5525d16161a">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
